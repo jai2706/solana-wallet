@@ -1,10 +1,10 @@
-## 🤔 What is the `solana-wallet`?
+## 🤔 What is a `crypto wallet`?
 
 Crypto wallets are one of the foundations of Web 3. They are the gateway application into crypto ecosystems by enabling users to interact with blockchain protocols and manage digital assets.
 
 Under the hood, wallets leverage cryptographic technologies to generate and recover private keys. Those private keys give users access to public accounts that record ownership on a blockchain and expand the internet's functionality from a global network for information exchange to a global network for disintermediated economic exchange.
 
-## 🧑‍💻 Guide for using the wallet
+## 🧑‍💻 Guide for using solana-wallet
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [Node](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/getting-started/install) installed. Then clone the repo and run the `yarn` command to install the app dependencies:
 
 ```
